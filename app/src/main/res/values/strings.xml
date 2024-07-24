@@ -1,0 +1,13 @@
+<resources>
+        <string name="app_name">MyNotificationApp</string>
+        <string name="mostrar_notificacion">Mostrar Notificación</string>
+        <string name="mostrar_toast_simple">Mostrar Toast Simple</string>
+        <string name="mostrar_toast_personalizado">Mostrar Toast Personalizado</string>
+        <string name="notificacion_titulo">Notificación</string>
+        <string name="notificacion_texto">Este es un mensaje de notificación.</string>
+        <string name="channel_name">Channel Name</string>
+        <string name="channel_description">Channel Description</string>
+        <string name="toast_simple">Este es un Toast simple</string>
+        <string name="toast_personalizado">Este es un Toast personalizado</string>
+
+</resources>
